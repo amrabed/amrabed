@@ -1,16 +1,18 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
-# Hi there 👋, I'm Amr Abed
-I am an Engineer, Researcher, and Instructor who loves learning and knowledge sharing. 
-I have got my M.S. and Ph.D. degrees in Computer Engineering from [Virginia Tech](https://vt.edu).
-I worked with companies like Google, Mentor Graphics (*now part of* Siemens), [RoboGarden](https://robogarden.ca), and [Sophi](https://sophi.io), in addition to my R&D work at Virginia Tech.
+# Hi 👋 I am Amr Abed
+Engineer, Researcher, and Instructor passionate about learning and knowledge sharing
+
+I have got my M.S. and Ph.D. degrees in Computer Engineering from Virginia Tech.
+I worked with companies like Google, Mentor Graphics (*now part of* Siemens), RoboGarden, and Sophi, in addition to my R&D work at Virginia Tech.
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-425066?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kuberneetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.com/)
+[![Kubernetes](https://img.shields.io/badge/Kuberneetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-1B3A57?style=for-the-badge&logo=firebase)](https://firebase.google.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
@@ -30,21 +32,5 @@ I worked with companies like Google, Mentor Graphics (*now part of* Siemens), [R
 [![Tech Stack](https://img.shields.io/badge/Stackshare-0690FA?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/amrabed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amrabed)
 [![Pluralsight](https://img.shields.io/badge/pluralsight-F15B2A?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/amrabed)
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2070636/amrabed)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2070636/amrabed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amrabed)
-
-<!--
-**amrabed/amrabed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
