@@ -31,7 +31,7 @@ I worked with companies like Google, Mentor Graphics (*now part of* Siemens), [R
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amrabed)
 [![Pluralsight](https://img.shields.io/badge/pluralsight-F15B2A?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/amrabed)
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2070636/amrabed)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://guthub.com/amrabed)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amrabed)
 
 <!--
