@@ -34,3 +34,4 @@ I worked with companies like Google, Mentor Graphics (*now part of* Siemens), Ro
 [![Pluralsight](https://img.shields.io/badge/pluralsight-F15B2A?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/amrabed)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2070636/amrabed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amrabed)
+[![Patreon](https://img.shields.io/badge/Patreon-12100E?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/amrabed)
