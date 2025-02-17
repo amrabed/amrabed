@@ -1,4 +1,4 @@
-[![SupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
+[![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
 
 # Hi 👋 I am Amr Abed
 Engineer, Researcher, and Instructor passionate about learning and knowledge sharing
