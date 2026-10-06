@@ -23,12 +23,6 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dev.java)
 [![C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 
-## Repositories
-
-- **[Website](https://github.com/amrabed/amrabed.github.io)** [![Language](https://img.shields.io/github/languages/top/amrabed/amrabed.github.io?style=flat-square)](https://github.com/amrabed/amrabed.github.io) [![Stars](https://img.shields.io/github/stars/amrabed/amrabed.github.io?style=flat-square)](https://github.com/amrabed/amrabed.github.io/stargazers)
-- **[Résumé](https://github.com/amrabed/resume)** [![Language](https://img.shields.io/github/languages/top/amrabed/resume?style=flat-square)](https://github.com/amrabed/resume) [![Stars](https://img.shields.io/github/stars/amrabed/resume?style=flat-square)](https://github.com/amrabed/resume/stargazers)
-- **[Blog](https://github.com/amrabed/blog)** [![Language](https://img.shields.io/github/languages/top/amrabed/blog?style=flat-square)](https://github.com/amrabed/blog) [![Stars](https://img.shields.io/github/stars/amrabed/blog?style=flat-square)](https://github.com/amrabed/blog/stargazers)
-
 ## Profiles
 
 [![Website](https://img.shields.io/badge/amrabed.com-white?style=for-the-badge)](https://amrabed.com)
@@ -38,3 +32,17 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2070636/amrabed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amrabed)
 [![Patreon](https://img.shields.io/badge/Patreon-12100E?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/amrabed)
+
+## Repositories
+
+<p align="center">
+  <a href="https://github.com/amrabed/amrabed.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io" alt="Website" />
+  </a>
+  <a href="https://github.com/amrabed/resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=resume" alt="Résumé" />
+  </a>
+  <a href="https://github.com/amrabed/blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=blog" alt="Blog" />
+  </a>
+</p>
