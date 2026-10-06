@@ -40,14 +40,14 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=github_dark"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io"
+        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard"
         alt="Website"
       />
     </picture>
@@ -56,14 +56,14 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=resume&theme=github_dark"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=resume"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=resume"
+        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard"
         alt="Résumé"
       />
     </picture>
@@ -72,14 +72,14 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=blog&theme=github_dark"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=blog"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=blog"
+        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard"
         alt="Blog"
       />
     </picture>
@@ -88,14 +88,14 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=notion&theme=github_dark"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=dark_github_repocard"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=notion"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=light_github_repocard"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=amrabed&repo=notion"
+        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=light_github_repocard"
         alt="Notion"
       />
     </picture>
