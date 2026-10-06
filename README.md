@@ -37,67 +37,39 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 
 <p align="center">
   <a href="https://github.com/amrabed/amrabed.github.io">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard"
-        alt="Website"
-      />
-    </picture>
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard#gh-dark-mode-only"
+      alt="Website"
+    /><img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard#gh-light-mode-only"
+      alt="Website"
+    />
   </a>
   <a href="https://github.com/amrabed/resume">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard"
-        alt="Résumé"
-      />
-    </picture>
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard#gh-dark-mode-only"
+      alt="Résumé"
+    /><img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard#gh-light-mode-only"
+      alt="Résumé"
+    />
   </a>
   <a href="https://github.com/amrabed/blog">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard"
-        alt="Blog"
-      />
-    </picture>
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard#gh-dark-mode-only"
+      alt="Blog"
+    /><img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard#gh-light-mode-only"
+      alt="Blog"
+    />
   </a>
   <a href="https://github.com/amrabed/notion">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=dark_github_repocard"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=light_github_repocard"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=light_github_repocard"
-        alt="Notion"
-      />
-    </picture>
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=dark_github_repocard#gh-dark-mode-only"
+      alt="Notion"
+    /><img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=light_github_repocard#gh-light-mode-only"
+      alt="Notion"
+    />
   </a>
 </p>
