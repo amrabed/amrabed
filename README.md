@@ -36,6 +36,6 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 ## Repositories
 
 [![Website](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard)](https://github.com/amrabed/amrabed.github.io)
-[![Résumé](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard)](https://github.com/amrabed/resume)
 [![Blog](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard)](https://github.com/amrabed/blog)
+[![Résumé](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard)](https://github.com/amrabed/resume)
 [![Notion](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=dark_github_repocard)](https://github.com/amrabed/notion)
