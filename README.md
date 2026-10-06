@@ -25,9 +25,9 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 
 ## Repositories
 
-[![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed/amrabed.github.io)
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed/resume)
-[![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed/blog)
+- **[Website](https://github.com/amrabed/amrabed.github.io)** [![Language](https://img.shields.io/github/languages/top/amrabed/amrabed.github.io?style=flat-square)](https://github.com/amrabed/amrabed.github.io) [![Stars](https://img.shields.io/github/stars/amrabed/amrabed.github.io?style=flat-square)](https://github.com/amrabed/amrabed.github.io/stargazers)
+- **[Résumé](https://github.com/amrabed/resume)** [![Language](https://img.shields.io/github/languages/top/amrabed/resume?style=flat-square)](https://github.com/amrabed/resume) [![Stars](https://img.shields.io/github/stars/amrabed/resume?style=flat-square)](https://github.com/amrabed/resume/stargazers)
+- **[Blog](https://github.com/amrabed/blog)** [![Language](https://img.shields.io/github/languages/top/amrabed/blog?style=flat-square)](https://github.com/amrabed/blog) [![Stars](https://img.shields.io/github/stars/amrabed/blog?style=flat-square)](https://github.com/amrabed/blog/stargazers)
 
 ## Profiles
 
