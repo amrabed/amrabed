@@ -35,69 +35,7 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 
 ## Repositories
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard"
-    />
-    <a href="https://github.com/amrabed/amrabed.github.io">
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard"
-        alt="Website"
-      />
-    </a>
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard"
-    />
-    <a href="https://github.com/amrabed/resume">
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard"
-        alt="Résumé"
-      />
-    </a>
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard"
-    />
-    <a href="https://github.com/amrabed/blog">
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard"
-        alt="Blog"
-      />
-    </a>
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=dark_github_repocard"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=light_github_repocard"
-    />
-    <a href="https://github.com/amrabed/notion">
-      <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=light_github_repocard"
-        alt="Notion"
-      />
-    </a>
-  </picture>
-</p>
+[![Website](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard)](https://github.com/amrabed/amrabed.github.io)
+[![Résumé](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard)](https://github.com/amrabed/resume)
+[![Blog](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard)](https://github.com/amrabed/blog)
+[![Notion](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=dark_github_repocard)](https://github.com/amrabed/notion)
