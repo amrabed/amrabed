@@ -32,3 +32,10 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2070636/amrabed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amrabed)
 [![Patreon](https://img.shields.io/badge/Patreon-12100E?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/amrabed)
+
+## Repositories
+
+[![Website](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard)](https://github.com/amrabed/amrabed.github.io)
+[![Blog](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard)](https://github.com/amrabed/blog)
+[![Résumé](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard)](https://github.com/amrabed/resume)
+[![Notion](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=notion&theme=dark_github_repocard)](https://github.com/amrabed/notion)
