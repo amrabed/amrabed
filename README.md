@@ -23,6 +23,12 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dev.java)
 [![C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 
+## Repositories
+
+[![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed/amrabed.github.io)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed/resume)
+[![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrabed/blog)
+
 ## Profiles
 
 [![Website](https://img.shields.io/badge/amrabed.com-white?style=for-the-badge)](https://amrabed.com)
