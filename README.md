@@ -35,7 +35,9 @@ I worked with companies like Google, Mentor Graphics (_now part of_ Siemens), Ro
 
 ## Repositories
 
-[![Website](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard)](https://github.com/amrabed/amrabed.github.io)
-[![Blog](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard)](https://github.com/amrabed/blog)
-[![Résumé](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard)](https://github.com/amrabed/resume)
-[![Courses](https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=courses&theme=dark_github_repocard)](https://github.com/amrabed/courses)
+<p align="center">
+  <a href="https://github.com/amrabed/amrabed.github.io#gh-dark-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=dark_github_repocard" alt="Website" /></a><a href="https://github.com/amrabed/amrabed.github.io#gh-light-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=amrabed.github.io&theme=light_github_repocard" alt="Website" /></a>
+  <a href="https://github.com/amrabed/blog#gh-dark-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=dark_github_repocard" alt="Blog" /></a><a href="https://github.com/amrabed/blog#gh-light-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=blog&theme=light_github_repocard" alt="Blog" /></a>
+  <a href="https://github.com/amrabed/resume#gh-dark-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=dark_github_repocard" alt="Résumé" /></a><a href="https://github.com/amrabed/resume#gh-light-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=resume&theme=light_github_repocard" alt="Résumé" /></a>
+  <a href="https://github.com/amrabed/courses#gh-dark-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=courses&theme=dark_github_repocard" alt="Courses" /></a><a href="https://github.com/amrabed/courses#gh-light-mode-only"><img src="https://github-stats-extended.vercel.app/api/pin/?username=amrabed&repo=courses&theme=light_github_repocard" alt="Courses" /></a>
+</p>
